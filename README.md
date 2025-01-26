@@ -45,6 +45,6 @@ Here are some of my favorite projects:
 - **Data Structures and Algorithms**
 
 ## 💬 Let's Connect!
-- [Website](https://www.prasanthsagar.com)
+- [Website](https://prasanthsagar.vercel.app/)
 
 Feel free to reach out to me if you'd like to collaborate or discuss exciting opportunities!
